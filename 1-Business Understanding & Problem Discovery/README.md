@@ -1,2 +1,1 @@
-# AIDI-1002-Project
-It will contains project description.
+# Business Understanding & Problem Discovery

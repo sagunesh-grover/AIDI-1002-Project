@@ -1,7 +1,9 @@
 # Malaria Detector
-![](https://github.com/sagunesh-grover/AIDI-1002-Project/blob/main/4-Delivery%20%26%20Acceptance/Deployed-Web-App-Code/project_demo.gif)
 
 The deployed flask web application can be found [here](https://malaria-detector-aidi1002.herokuapp.com/). Inorder to test the web app sample images can be found [here](https://github.com/sagunesh-grover/AIDI-1002-Project/tree/main/4-Delivery%20%26%20Acceptance/Input_Cell_Images)
+
+![](https://github.com/sagunesh-grover/AIDI-1002-Project/blob/main/4-Delivery%20%26%20Acceptance/Deployed-Web-App-Code/project_demo.gif)
+
 
 
 ## Problem Description

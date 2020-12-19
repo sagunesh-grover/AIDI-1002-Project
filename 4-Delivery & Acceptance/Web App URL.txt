@@ -1,0 +1,2 @@
+Web_App_URL:- https://malaria-detector-aidi1002.herokuapp.com/
+PROJECT_URL:-https://github.com/sagunesh-grover/AIDI-1002-Project
